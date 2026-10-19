@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, pull request");
+﻿Console.WriteLine("Hello, conflict");
