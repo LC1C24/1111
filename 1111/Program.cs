@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, conflict");
+﻿Console.WriteLine("Hello, ");
